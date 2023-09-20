@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+
+# IDE (e.g., PyCharm)
+.idea/
+
+# Compiled Files
+*.pyc
+
+# Dependency directories
+__pycache__/
